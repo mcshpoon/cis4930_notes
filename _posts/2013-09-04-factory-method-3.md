@@ -1,11 +1,3 @@
----
-layout: post
-title: Factory Method (3)
-categories: notes
-tags: [redux, factory, template]
----
-{% include JB/setup %}
-
 # Administrivia
 * Read: Template Method (325)
 
